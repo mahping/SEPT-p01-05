@@ -1,7 +1,7 @@
 # Web Application Boilerplate Code
 
 
-# RMIT COSC2299 SEPT Major Project
+# SEPT Major Project
 
 # Group Information
 
